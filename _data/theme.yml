@@ -96,7 +96,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 # THEME FONTS
 base-font-size: 1.2em
 text-color: "#2b1700"
-link-color: "#760e46"
+link-color: "#204224"
 base-font-family: Helvetica
 font-cdn: <link href="https://fonts.googleapis.com/css?family=Helvetica&display=swap" rel="stylesheet">
 

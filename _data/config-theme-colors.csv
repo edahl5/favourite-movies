@@ -2,7 +2,7 @@ color_class,color
 primary, #5c752d
 secondary, #876412
 success, #d0d9c1
-info,
+info, #f5e1ed
 warning, #dec8d5
 danger, #ad899f
 light, #f7f2f5

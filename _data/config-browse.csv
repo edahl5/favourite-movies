@@ -1,5 +1,4 @@
 field,display_name,btn,hidden,sort_name
 date,Date,Date
-Director,Director,Director
-Subject,Subject,Subject
-Location,Location,Location
+director,Director,Director
+subject,Subject,Subject

@@ -86,7 +86,7 @@ search-child-objects: true # true / false - if true, child objects will appear o
 navbar-color: navbar-light
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-dark
+navbar-background: bg-secondary
 
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
@@ -96,7 +96,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 # THEME FONTS
 base-font-size: 1.2em
 text-color: "#2b1700"
-link-color: "#204224"
+link-color: "#3b0824"
 base-font-family: Helvetica
 font-cdn: <link href="https://fonts.googleapis.com/css?family=Helvetica&display=swap" rel="stylesheet">
 

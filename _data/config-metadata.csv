@@ -4,7 +4,7 @@ director,Director,
 date,Date,
 description,Description,
 subject,Subjects,true
-location,Filming Location
+location,Main Filming Location
 latitude,Latitude
 longitude,Longitude
 source,Source
